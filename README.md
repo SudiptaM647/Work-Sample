@@ -1,1 +1,1 @@
-The Payrol guide is a technical manual that provides step-by-step instructions oh how to navigate through the payrol system.
+Payrol guide: Follow the technical guide to seamlessly navigate through the payrol system.
